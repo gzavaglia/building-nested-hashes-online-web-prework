@@ -7,9 +7,9 @@ def second_challenge
       :hero_friends = []
       }, #end montague  
     :capulet => {
-      :patriarch = {},
-      :matriarch = {},
-      :hero = {},
+      :patriarch => {},
+      :matriarch => {},
+      :hero => {},
       :heroine_friends = []
       }}
 
